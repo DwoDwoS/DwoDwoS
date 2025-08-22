@@ -44,10 +44,6 @@ Apprenant Développeur Full Stack à Ada Tech School
 
 <table><tr>
 <td valign="top">
-<h4>Langages les plus utilisés</h4>
-<img alt="Langages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwoDwoS&layout=compact&theme=dracula" />
-</td>
-<td valign="top">
 <h4>Série de contributions</h4>
 <img alt="Série de contributions" src="https://streak-stats.demolab.com?user=DwoDwoS&theme=dracula&hide_border=true" />
 </td>
