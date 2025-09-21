@@ -1,26 +1,17 @@
 # Elouan
 
-Apprenant Développeur Full Stack à Ada Tech School
+Apprenant Développeur Full Stack à Ada Tech School. Ancien Educateur Spécialisé dans la Protection de l'Enfance, j'ai souhaité me reconvertir dans la Tech pour pouvoir créer des choses de mes mains et de mes réflexions. Je suis de nature curieux et j'aime apprendre de nouvelles choses ainsi que de résoudre des casses-têtes/énigmes/problèmes en tout genre.
 
 ## Compétences techniques
-<table><tr>
+
+| Front  | Back  | Data & DB | Frameworks |
+|:---:|:---:|:---:|:---:|
+| <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />  | <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />  | <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />  | <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" /> |
+| <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />  | <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />  | <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />  | 
+| <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />  | <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logo=coffeescript&logoColor=white" />  | 
+
 <td>
-<h3>Compétences</h3>
-<div>
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-<img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logo=coffeescript&logoColor=white" />
-<img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-</div>
-</td>
-<td>
-<h3>Compétences</h3>
+<h3>Savoir-être</h3>
 <ul>
 <li>Communication</li>
 <li>Travail d’équipe</li>
