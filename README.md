@@ -10,23 +10,18 @@ Apprenant Développeur Full Stack à Ada Tech School. Ancien Educateur Spéciali
 | <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />  | <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />  | <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />  | <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" /> |
 | <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />  | <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logo=coffeescript&logoColor=white" />  | 
 
-<td>
-<h3>Savoir-être</h3>
-<ul>
-<li>Communication</li>
-<li>Travail d’équipe</li>
-<li>Résolution de problèmes</li>
-<li>Autonomie</li>
-<li>Esprit d’analyse</li>
-<li>Empathie</li>
-<li>Curiosité</li>
-<li>Gestion du temps</li>
-<li>Organisation</li>
-<li>Adaptabilité</li>
-<li>Pédagogie</li>
-</ul>
-</td>
-</tr></table>
+
+## Savoir-être
+
+| Atouts Relationnels | Atouts Professionnels |
+| :--: | :--: |
+| Adaptabilité | Esprit d’analyse  |
+| Autonomie | Gestion du temps |
+| Communication | Pédagogie  |
+| Curiosité | Résolution de problèmes |
+| Empathie | Travail d’équipe |
+| Organisation |  |
+
 
 ## Statistiques GitHub
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=DwoDwoS&show_icons=true&theme=tokyonight)
