@@ -24,7 +24,7 @@ Apprenant Développeur Full Stack à Ada Tech School. Ancien Educateur Spéciali
 
 
 ## Statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=DwoDwoS&show_icons=true&theme=tokyonight)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=DwoDwoS&show_icons=true&theme=github_dark)
 
 ---
 
