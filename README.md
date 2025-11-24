@@ -1,9 +1,12 @@
+<div align="center">
+  
 # Elouan
 
 Apprenant Développeur Full Stack à Ada Tech School. Ancien Educateur Spécialisé dans la Protection de l'Enfance, j'ai souhaité me reconvertir dans la Tech pour pouvoir créer des choses de mes mains et de mes réflexions. Je suis de nature curieux et j'aime apprendre de nouvelles choses ainsi que de résoudre des casses-têtes/énigmes/problèmes en tout genre.
 
 ## Compétences techniques
 
+  
 | Front  | Back  | Data & DB | Frameworks / Bibli |
 |:---:|:---:|:---:|:---:|
 | <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />  | <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />  | <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />  | <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" /> |
@@ -13,6 +16,7 @@ Apprenant Développeur Full Stack à Ada Tech School. Ancien Educateur Spéciali
 
 ## Savoir-être
 
+  
 | Atouts Relationnels | Atouts Professionnels |
 | :--: | :--: |
 | Adaptabilité | Esprit d’analyse  |
@@ -43,3 +47,5 @@ Apprenant Développeur Full Stack à Ada Tech School. Ancien Educateur Spéciali
 ## Liens
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/DwoDwoS/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elouan-gauriaud/)
+
+</div>
